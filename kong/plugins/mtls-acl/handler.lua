@@ -27,8 +27,8 @@ end
 
 -- Define the handler
 local MtlsAcl = {
-    MtlsAcl.VERSION = "1.0.0"
-    MtlsAcl.PRIORITY = 950
+    VERSION = "1.0.0"
+    PRIORITY = 950
 }
 
 -- Define the access phase
