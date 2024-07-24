@@ -25,10 +25,9 @@ local function get_header_value(header_name)
     return nil
 end
 
--- Define the handler
 local MtlsAcl = {
-    VERSION = "1.0.0"
-    PRIORITY = 950
+    VERSION = "1.0.0",
+    PRIORITY = 975
 }
 
 -- Define the access phase
